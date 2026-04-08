@@ -1,7 +1,7 @@
 # MakeAppIcon
 
 <div align="center">
-    <img src="Assets.xcassets/AppIcon.appiconset/icon_128x128.png" alt="MakeAppIcon Logo" width="128" height="128">
+    <img src="MakeAppIcon/Assets.xcassets/AppIcon.appiconset/AppIcon-128.png" alt="MakeAppIcon Logo" width="128" height="128">
     <h3>一键生成所有 Apple 平台的 App Icon</h3>
     <p>支持 iOS、macOS、watchOS、tvOS</p>
 </div>
